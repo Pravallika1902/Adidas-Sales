@@ -4,27 +4,27 @@ Welcome to the Adidas Sales Analysis project! This interactive Power BI dashboar
 
 ----
 
-#🔍 Project Highlight
+##🔍 Project Highlight
 
 
-**Data Size**: Analyzed over 25,000 Adidas sales records
-**Product Range**: Covered 10+ product categories
-**Data cleaning**: Used Power Query Editor to clean and transform data, reducing refresh errors by 30%
-**DAX Measures**: Created 8+ KPIs including Total Revenue, Units Sold, and Profit Margin
-**Insight Discovery**: Identified a 25% revenue increase in Q4 and regional sales differences
+🔹**Data Size**: Analyzed over 25,000 Adidas sales records
+🔹**Product Range**: Covered 10+ product categories
+🔹 **Data cleaning**: Used Power Query Editor to clean and transform data, reducing refresh errors by 30%
+🔹**DAX Measures**: Created 8+ KPIs including Total Revenue, Units Sold, and Profit Margin
+
 
 ----
 
-#🧩 Dashboard Features
+##🧩 Dashboard Features
 
 
-1.**Slicers for filtering by region, category, and time**
-2.**Drill-down navigation for detailed analysis**
-3.**Interactive charts and visuals**
+-**Slicers for filtering by region, category, and time**
+-**Drill-down navigation for detailed analysis**
+-**Interactive charts and visuals**
 
 ----
 
-#📈 Key Insights
+##📈 Key Insights
 
 
 💰**West and East regions are the top revenue generators**
@@ -34,7 +34,7 @@ Welcome to the Adidas Sales Analysis project! This interactive Power BI dashboar
 
 ----
 
-#🛠 Tools Used
+##🛠 Tools Used
 
 **Power BI – for dashboard creation and visual analysis**
 **Power Query Editor – for cleaning and transforming the raw sales data**
@@ -42,8 +42,11 @@ Welcome to the Adidas Sales Analysis project! This interactive Power BI dashboar
 
 ----
 
-#📸 Dashboard Preview
-
+##📸 Dashboard Preview
+🔹 **Tool Used**: Microsoft Power BI  More actions
+🔹 **Dataset**: Adidas Sales Data (CSV/Excel format)  
+🔹 **File**: `project_2.pbix`  
+🔹
 
 
 
