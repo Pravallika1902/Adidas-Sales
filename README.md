@@ -45,6 +45,25 @@ Welcome to the Adidas Sales Analysis project! This interactive Power BI dashboar
 ## 📸 Dashboard Preview
 + ![Dashboard Screenshot](https://github.com/Pravallika1902/Adidas-Sales/blob/868bd8f1e272fd431d380834edb086c0b092862f/Screenshot%20(417).png)
 + ![Dashboard Screenshot](https://github.com/Pravallika1902/Adidas-Sales/blob/710387f22d4233aa215ad9437845d8a409562b12/Screenshot%20(418).png)
++ ![Dashboard Screenshot](https://github.com/Pravallika1902/Adidas-Sales/blob/d8b3757a466b9e804c22604f8db694756ea1d99c/Screenshot%20(419).png)
+
+----
+
+## 🧠 Knowledge Acquired
+
+- **Gained practical experience in building end-to-end dashboards using Power BI** 
+- **Learned to clean and shape data using Power Query Editor for reliable reporting** 
+- **Developed custom KPIs using DAX to track and analyze business performance**  
+- **Designed interactive visuals with slicers, filters, and drill-downs**
+
+---- 
+
+## 🔧 Future Work
+- **Integrate customer demographic data for deeper analysis**
+- **Include forecast metrics using Power BI’s predictive analytics features**
+- **Improve visual design with custom themes and branding**
+
+
 
 
 
