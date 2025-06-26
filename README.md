@@ -43,7 +43,7 @@ Welcome to the Adidas Sales Analysis project! This interactive Power BI dashboar
 ----
 
 ## 📸 Dashboard Preview
-+ ![Dashboard Screenshot][https://github.com/Pravallika1902/Adidas-Sales/blob/868bd8f1e272fd431d380834edb086c0b092862f/Screenshot%20(417).png]
++ ![Dashboard Screenshot](https://github.com/Pravallika1902/Adidas-Sales/blob/868bd8f1e272fd431d380834edb086c0b092862f/Screenshot%20(417).png)
 
 
 
